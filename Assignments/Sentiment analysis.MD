@@ -69,6 +69,6 @@ Your project will be evaluated based on the following criteria:
 
 ---
 
-Good luck with your assignment! Remember, your ability to clearly **justify** your methodology and provide **insightful interpretations** will be key to a successful project.
+All the best!
 
 
