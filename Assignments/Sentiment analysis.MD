@@ -67,6 +67,12 @@ Your project will be evaluated based on the following criteria:
 4. **Interpretation:**  
    - Depth and insight in interpreting the outputs. The ability to connect results to broader research questions.
 
+5. **AI Help:**
+  - Be transparent about how much help you received from AI
+  - Rate yourself up to 10. Ex. 5 out of ten you relied on AI for code
+  - Explain each code that AI provided you using MarkDown
+
+
 ---
 
 All the best!
