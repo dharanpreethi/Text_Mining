@@ -12,7 +12,7 @@
 
 The project should follow a clear and organized structure, including the following sections:
 
-- **Introduction, review of literature, research questions, objectives, methodology, analysis,  limitation, challenges, future work and conclusion (you have to include-- what the audience can take away from the outcome of the text mining process)**  
+- **Introduction, review of literature, research questions, objectives, methodology, analysis,  limitations, challenges, future work and conclusion (you have to include-- what the audience can take away from the outcome of the text mining process)**  
 - **Word limit**: 3000 to 4000 words
 - **Reference style**: APA (both in-text citation and bibliography)
   
