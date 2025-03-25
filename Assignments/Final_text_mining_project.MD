@@ -17,10 +17,10 @@ The project should follow a clear and organized structure, including the followi
 - **Reference style**: APA (both in-text citation and bibliography)
   
 - **Research Questions:**
-- Formulate specific, innovative questions that your sentiment analysis aims to address.
+  - Formulate specific, innovative questions that your sentiment analysis aims to address.
 
 - **Objectives:**  
-  Clearly define what you aim to achieve through this project.
+  - Clearly define what you aim to achieve through this project.
   
 - **Methodology:**  
   - Your methodology can include **more than one method** from the methods we studied in the class. 
@@ -28,7 +28,7 @@ The project should follow a clear and organized structure, including the followi
   - Do not use **Sentiment Analysis**.
   
   **Justification:** 
-- Provide a **rationale** for choosing these methods. Explain how each contributes to answering your research questions.
+  - Provide a **rationale** for choosing these methods. Explain how each contributes to answering your research questions.
 
 ---
 
