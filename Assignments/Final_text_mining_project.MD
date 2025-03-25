@@ -13,8 +13,10 @@
 The project should follow a clear and organized structure, including the following sections:
 
 - **Introduction, review of literature, research question, objectives, methodology, analysis,  limitation, challenges, future work and conclusion (you have to include-- what the audience can take away from the outcome of the text mining process)**  
+- **Word limit**: 3000 to 4000 words
+-- **Reference style**: APA (both in-text citation and bibliography
   
-- **a. Researach Questions:**
+- **a. Research Questions:**
 Formulate specific, innovative questions that your sentiment analysis aims to address.
 
 - **b. Objectives:**  
@@ -22,6 +24,7 @@ Formulate specific, innovative questions that your sentiment analysis aims to ad
   
 - **c. Methodology:**  
   Your methodology can include **more than one method** from the methods we studied in the class. 
+  You can also include the gold standard method, the combination of qualitative and quantitative methods.
   - Do not use **Sentiment Analysis**.
   
   **Justification:** Provide a **rationale** for choosing these methods. Explain how each contributes to answering your research questions.
