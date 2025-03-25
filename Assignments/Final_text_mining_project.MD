@@ -1,4 +1,4 @@
-#**Criteria/Guidelines for Final Text Mining Project/Assignment**
+**Criteria/Guidelines for Final Text Mining Project/Assignment**
 
 ---
 
