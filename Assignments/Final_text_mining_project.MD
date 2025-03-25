@@ -16,13 +16,13 @@ The project should follow a clear and organized structure, including the followi
 - **Word limit**: 3000 to 4000 words
 - **Reference style**: APA (both in-text citation and bibliography)
   
-- **a. Research Questions:**
-Formulate specific, innovative questions that your sentiment analysis aims to address.
+- **Research Questions:**
+- Formulate specific, innovative questions that your sentiment analysis aims to address.
 
-- **b. Objectives:**  
+- **Objectives:**  
   Clearly define what you aim to achieve through this project.
   
-- **c. Methodology:**  
+- **Methodology:**  
   - Your methodology can include **more than one method** from the methods we studied in the class. 
   - You can also include the gold standard method, the combination of qualitative and quantitative methods.
   - Do not use **Sentiment Analysis**.
