@@ -3,8 +3,8 @@
 ---
 
 **1. Corpus Selection:**  
-- Use **any corpus relevant to your areas of research**.
-- Do not forget corpus building criteria while curating your data.
+- Use **any corpus relevant to your research area**.
+- Do not forget corpus-building criteria while curating your data.
 
 ---
 
