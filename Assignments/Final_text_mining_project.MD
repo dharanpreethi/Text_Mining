@@ -14,7 +14,7 @@ The project should follow a clear and organized structure, including the followi
 
 - **Introduction, review of literature, research question, objectives, methodology, analysis,  limitation, challenges, future work and conclusion (you have to include-- what the audience can take away from the outcome of the text mining process)**  
 - **Word limit**: 3000 to 4000 words
--- **Reference style**: APA (both in-text citation and bibliography
+- **Reference style**: APA (both in-text citation and bibliography)
   
 - **a. Research Questions:**
 Formulate specific, innovative questions that your sentiment analysis aims to address.
@@ -23,11 +23,12 @@ Formulate specific, innovative questions that your sentiment analysis aims to ad
   Clearly define what you aim to achieve through this project.
   
 - **c. Methodology:**  
-  Your methodology can include **more than one method** from the methods we studied in the class. 
-  You can also include the gold standard method, the combination of qualitative and quantitative methods.
+  - Your methodology can include **more than one method** from the methods we studied in the class. 
+  - You can also include the gold standard method, the combination of qualitative and quantitative methods.
   - Do not use **Sentiment Analysis**.
   
-  **Justification:** Provide a **rationale** for choosing these methods. Explain how each contributes to answering your research questions.
+  **Justification:** 
+- Provide a **rationale** for choosing these methods. Explain how each contributes to answering your research questions.
 
 ---
 
@@ -38,7 +39,7 @@ Formulate specific, innovative questions that your sentiment analysis aims to ad
 ---
 
 **4. Interpretation of Results:**  
-- Provide a **convincing and thorough interpretation** of your outputs.
+- Provide a **convincing and thorough interpretation** of your outputs and also provide in-text citations wherever it is needed.
 - Link your findings back to your **research questions** and **objectives**.
 - Discuss any **unexpected results** or **patterns** you observed.
 
