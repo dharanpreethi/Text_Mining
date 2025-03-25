@@ -27,7 +27,7 @@ The project should follow a clear and organized structure, including the followi
   - You can also include the gold standard method, the combination of qualitative and quantitative methods.
   - Do not use **Sentiment Analysis**.
   
-  **Justification:** 
+- **Justification:** 
   - Provide a **rationale** for choosing these methods. Explain how each contributes to answering your research questions.
 
 ---
